@@ -15,7 +15,7 @@
 
 Hi, I'm [Bansi!](http://technoupdt.blogspot.com/), a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/RyderJosh/RyderJosh/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://avatars0.githubusercontent.com/u/33387973?s=460&u=721ef06f5020219d5f2186a5b5ac3657ac6e5137&v=4" />
   
 **Talking about Personal Stuffs:**
 
